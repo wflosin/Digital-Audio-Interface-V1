@@ -30,10 +30,10 @@ Noise and performance metrics of the board were not evaluated once completed. Au
 I hope you like it!
 
 Below are several sources that helped in the creation of this design:
-https://www.theseus.fi/bitstream/handle/10024/857714/Heikkinen_Tuomas-Pyry.pdf
-https://kastner.ucsd.edu/ryan/wp-content/uploads/sites/5/2022/06/admin/usb-audio-interface.pdf
-https://guitarnuts2.proboards.com/thread/7842/modeling-electric-guitar-ltspice
-https://circuitdigest.com/electronic-circuits/audio-equalizer-tone-control-circuit-with-bass-treble-and-mid-frequency-control
-https://www.ti.com/lit/ug/tidu034/tidu034.pdf
-Small Signal Audio Design, by Douglas Self (chapter 9)
-https://www.edn.com/signal-distortion-from-high-k-ceramic-capacitors/
+- https://www.theseus.fi/bitstream/handle/10024/857714/Heikkinen_Tuomas-Pyry.pdf
+- https://kastner.ucsd.edu/ryan/wp-content/uploads/sites/5/2022/06/admin/usb-audio-interface.pdf
+- https://guitarnuts2.proboards.com/thread/7842/modeling-electric-guitar-ltspice
+- https://circuitdigest.com/electronic-circuits/audio-equalizer-tone-control-circuit-with-bass-treble-and-mid-frequency-control
+- https://www.ti.com/lit/ug/tidu034/tidu034.pdf
+- Small Signal Audio Design, by Douglas Self (chapter 9)
+- https://www.edn.com/signal-distortion-from-high-k-ceramic-capacitors/
